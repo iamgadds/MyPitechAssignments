@@ -1,0 +1,6 @@
+C:\Users\Husain.Ghadiyali\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe.config
+C:\Users\Husain.Ghadiyali\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.exe
+C:\Users\Husain.Ghadiyali\source\repos\ArrayAssignment\ArrayAssignment\bin\Debug\ArrayAssignment.pdb
+C:\Users\Husain.Ghadiyali\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.csprojAssemblyReference.cache
+C:\Users\Husain.Ghadiyali\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.exe
+C:\Users\Husain.Ghadiyali\source\repos\ArrayAssignment\ArrayAssignment\obj\Debug\ArrayAssignment.pdb
