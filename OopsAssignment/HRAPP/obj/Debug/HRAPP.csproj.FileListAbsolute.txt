@@ -1,0 +1,9 @@
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\bin\Debug\HRAPP.exe.config
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\bin\Debug\HRAPP.exe
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\bin\Debug\HRAPP.pdb
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\bin\Debug\HRLib.dll
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\bin\Debug\HRLib.pdb
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\obj\Debug\HRAPP.csprojAssemblyReference.cache
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\obj\Debug\HRAPP.csproj.CopyComplete
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\obj\Debug\HRAPP.exe
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRAPP\obj\Debug\HRAPP.pdb

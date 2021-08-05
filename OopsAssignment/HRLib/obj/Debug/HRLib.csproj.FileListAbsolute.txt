@@ -1,0 +1,5 @@
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRLib\bin\Debug\HRLib.dll
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRLib\bin\Debug\HRLib.pdb
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRLib\obj\Debug\HRLib.csprojAssemblyReference.cache
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRLib\obj\Debug\HRLib.dll
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\OopsAssignment\HRLib\obj\Debug\HRLib.pdb

@@ -1,0 +1,9 @@
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\bin\Debug\ProductGeneric.exe.config
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\bin\Debug\ProductGeneric.exe
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\bin\Debug\ProductGeneric.pdb
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\bin\Debug\ProductLib.dll
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\bin\Debug\ProductLib.pdb
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\obj\Debug\ProductGeneric.csprojAssemblyReference.cache
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\obj\Debug\ProductGeneric.csproj.CopyComplete
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\obj\Debug\ProductGeneric.exe
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductGeneric\obj\Debug\ProductGeneric.pdb

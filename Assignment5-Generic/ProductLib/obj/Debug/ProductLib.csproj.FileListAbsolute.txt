@@ -1,0 +1,5 @@
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductLib\bin\Debug\ProductLib.dll
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductLib\bin\Debug\ProductLib.pdb
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductLib\obj\Debug\ProductLib.csprojAssemblyReference.cache
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductLib\obj\Debug\ProductLib.dll
+C:\Users\Husain.Ghadiyali\source\repos\Tuesday 3rdAug\Assignment5-Generic\ProductLib\obj\Debug\ProductLib.pdb
